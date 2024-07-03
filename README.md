@@ -1,4 +1,5 @@
 Facial Emotion Intensity Detection
+
 This project is a machine learning project developed to detect the intensity of facial expressions.
 Using MediaPipe, facial key points are detected, and feature vectors are created by calculating the distances between these points. 
 These feature vectors are then used to determine the intensity of facial expressions using the K-means clustering algorithm.
