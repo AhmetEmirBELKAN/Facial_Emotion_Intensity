@@ -1,0 +1,14 @@
+# Ignore emotion directories
+anger
+contempt/
+deneme/
+disgust/
+fear/
+groups/
+happiness/
+neutrality/
+sadness/
+surprise/
+
+# Ignore emotion intensity model file
+emotion_intensity_model.h5
